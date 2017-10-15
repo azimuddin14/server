@@ -1,0 +1,176 @@
+#+1507589220
+ee
+#+1507589855
+ls
+#+1507589863
+cc server.c
+#+1507589903
+ee server.c
+#+1507589932
+cc server.c
+#+1507589951
+ee server.c
+#+1507590015
+cc server.c
+#+1507590034
+exit
+#+1507590041
+ls
+#+1507590049
+cc server.c
+#+1507590054
+ee server.c
+#+1507590067
+exit
+#+1507667438
+ifconfig
+#+1507667636
+./a.out 56000
+#+1507667872
+./a.out 56000
+#+1507667952
+./a.out 2200
+#+1507667989
+add user
+#+1507667994
+adduser
+#+1507668089
+adduser
+#+1507668157
+exit
+#+1507671606
+ee
+#+1507672817
+ls
+#+1507672826
+cc ServeR.c
+#+1507672869
+ee ServeR.c
+#+1507672918
+ee ServeR.c
+#+1507672969
+cc ServeR.c
+#+1507672979
+ee ServeR.c
+#+1507673021
+cc ServeR.c
+#+1507673121
+ee ServeR.c
+#+1507673179
+cc ServeR.c
+#+1507673186
+ifconfig
+#+1507673198
+ee ServeR.c
+#+1507674396
+./a.out 56765
+#+1507675740
+ee
+#+1507677035
+ls
+#+1507677048
+javac server.java
+#+1507677105
+ee server.java
+#+1507677142
+javac server.java
+#+1507677227
+ee server.java
+#+1507677281
+javac server.java
+#+1507681016
+ee server.java
+#+1507681536
+ls
+#+1507681544
+javac server.java
+#+1507681655
+ee server.java
+#+1507681689
+javac server.java
+#+1507681716
+ee server.java
+#+1507681797
+javac server.java
+#+1507682668
+ee server.java
+#+1507682693
+javac server.java
+#+1507682734
+ifconfig
+#+1507682844
+ee server.java
+#+1507683097
+exit
+#+1507725639
+ee
+#+1507725778
+ruby server.rb
+#+1507725840
+ee server.rb
+#+1507725904
+ruby server.rb
+#+1507725908
+ruby server.rb
+#+1507726049
+./server.rb
+#+1507726073
+./ server.rb
+#+1507726081
+ruby server.rb
+#+1507726089
+ifconfig
+#+1507726096
+ruby server.rb
+#+1507726100
+ruby server.rb
+#+1507726216
+ee server.rb
+#+1507726249
+ruby server.rb
+#+1507726399
+exit
+#+1507727432
+ifconfig
+#+1507727494
+ee server.rb
+#+1507727525
+ruby server.rb
+#+1507727602
+ee server.rb
+#+1507727682
+ruby ./server.rb
+#+1507727804
+ee server.rb
+#+1507727867
+ruby ./server.rb
+#+1507727877
+ee server.rb
+#+1507727935
+ruby ./server.rb
+#+1507728322
+ee server.rb
+#+1507728348
+ruby ./server.rb
+#+1507728508
+exit
+#+1507728535
+ruby ./server.rb
+#+1507728592
+ee server.rb
+#+1507728849
+cc ClienT.c
+#+1507728940
+cc ServeR.c
+#+1507728979
+./a.out 55000
+#+1507729048
+ee server.rb
+#+1507729176
+javac server.java
+#+1507729196
+java server
+#+1507729801
+./a.out 55000
+#+1507729932
+exit
